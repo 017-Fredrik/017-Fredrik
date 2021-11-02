@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @017-Fredrik. The 17th Fredrik. In 3 years, 2024 the 18th Fredrik will be created he will be the final version. But until then I'm here to learn.
+- 👋 Hi, I’m 017-Fredrik. The 17th Fredrik. In 3 years, 2024, the 18th Fredrik will be created he will be the final version. But until then I'm here to learn.
 - 👀 I’m interested in web-dev and code structure. My brain is logic based my visually interested.
 - 🌱 I’m currently learning HTML. CSS and Javascript.
 - 
